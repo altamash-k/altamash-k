@@ -5,9 +5,9 @@
 
 
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=altamash23820&color=brightgreen" alt="watching_count" />
+ <img src="https://komarev.com/ghpvc/?username=altamash23820&color=blue" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-blue" />
   <img src="https://img.shields.io/badge/Lives-Mumbai%2cIndia-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>

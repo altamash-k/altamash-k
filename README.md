@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi 👋, I am Altmash Siddique </h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I am Altmash Siddique </h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/altamash23820" target="blank"></a>

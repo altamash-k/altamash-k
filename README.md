@@ -56,7 +56,7 @@
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </code>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </code>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/html.png"/> </code>
-  <code> <img height="70" src="https://img.icons8.com/color/48/000000/css.png"/>> </code>
+  <code> <img height="70" src="https://img.icons8.com/color/48/000000/css.png"/> </code>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </code><br>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </code>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> </code>

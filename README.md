@@ -55,17 +55,17 @@
   <code> <img height="70" src="https://img.icons8.com/fluency/48/000000/python.png"/> </code>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </code>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </code>
-  <code> <img height="70" src="https://img.icons8.com/color/48/000000/html.png"/> </code>
-  <code> <img height="70" src="https://img.icons8.com/color/48/000000/css.png"/> </code>
+  <code> <img height="70" src ="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </code>
+  <code> <img height="70" src="https://img.icons8.com/color/48/000000/css3.png"/> </code>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </code><br>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </code>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> </code>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="70" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code><br>
   <code> <img height="70" src="https://img.icons8.com/color/48/000000/git.png"/></code>
-  <code> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </code>
-  <code> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </code>
-  <code> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"/> </code><br>
+  <code> <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/> </code>
+  <code> <img height="70" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </code>
+  <code> <img height="70" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"/> </code><br>
 
   <hr>
   <p align="center">

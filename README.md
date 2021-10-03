@@ -28,7 +28,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Altmash Siddique a <b>third year</b> undergraduate from <a href="https://uom.lk/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. <br>
+    Hello, I am Altmash Siddique a <b>third year</b> undergraduate from <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. <br>
     <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px"> and a <b>Full Stack Web Developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>learning New Technologies</b> and always looking to find solution and better approach to a problem statement. 
   </em> 

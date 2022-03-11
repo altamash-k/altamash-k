@@ -5,7 +5,7 @@
 
 
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=altamash23820&color=blue" alt="watching_count" />
+ <img src="https://komarev.com/ghpvc/?username=altamash-k&color=blue" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-blue" />
   <img src="https://img.shields.io/badge/Lives-Mumbai%2cIndia-success" />
@@ -15,11 +15,11 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I am Altmash Siddique </h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/altamash23820" target="blank"></a>
+<a href="https://www.hackerrank.com/altamash-k" target="blank"></a>
 <a href="https://www.linkedin.com/in/altamash-siddique-389971178/" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="lin_ovindu" height="50" width="50" /></a>  
-<a href="https://www.kaggle.com/altamash23820" target="blank"></a>
+<a href="https://www.kaggle.com/altamash-k" target="blank"></a>
 <a href="https://www.instagram.com/altamash.khan__/" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" alt="insta_ovindu" height="50" width="50" /></a>
-<a href="https://github.com/altamash23820/altamash23820/" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/github.png" alt="fb_ovindu" height="50" width="50" /></a>
+<a href="https://github.com/altamash-k/altamash-k/" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/github.png" alt="fb_ovindu" height="50" width="50" /></a>
  <a href = "mailto: s.altamash.r@gmail.com"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" height="50" width="50" /></a>
 </p>
 </p>
@@ -71,19 +71,19 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altamash23820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=altamash23820&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altamash-k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=altamash-k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=altamash23820&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=altamash-k&theme=juicyfresh&no-bg=true" />
 
 
 -----
-Credits: [Altmash Siddique](https://github.com/altamash23820)
+Credits: [Altmash Siddique](https://github.com/altamash-k)
 
 Last Edited on: 29/09/2021
 

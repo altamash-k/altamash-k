@@ -69,7 +69,7 @@
 
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <i><b>Git Activeness</b></i></p>
  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=altamash-k&show_icons=true&hide_border=true&theme=radical" />

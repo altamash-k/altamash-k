@@ -85,6 +85,10 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=altamash-k&theme=radical" align="center" /></p>
 
 
+<a href="https://github.com/altamash-k/github-readme-activity-graph"><img alt="Altmash Siddique's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=altamash-k&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
 -----
 Credits: [Altmash Siddique](https://github.com/altamash-k)
 
